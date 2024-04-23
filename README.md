@@ -1,3 +1,2 @@
-# Taller-Practico-JS
-# HOLA
-# Taller-Practico-JS
+#Taller para practicar JS y HTML
+
